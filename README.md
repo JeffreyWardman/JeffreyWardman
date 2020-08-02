@@ -4,6 +4,16 @@
     <tr> 
         <td>
             Interested in machine vision applications in medicine, astrodynamics and astronomy. Always open to collaboration.
+            <br>
+            <table style="width:300px">
+                <tr>
+                    <td><a href="https://scholar.google.com/citations?user=ZiFRiAIAAAAJ&hl"><img align="left" alt="Google Scholar" width="170px" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png" />
+                    <td>
+                    <td><a href="https://www.linkedin.com/in/jeffreywardman/"><img align="left" alt="LinkedIn" width="130px" src="./imgs/LI-Logo.png" />
+                    <td>
+                    <td><a href="https://www.kaggle.com/jeffreywardman"><img align="left" alt="Kaggle" width="120px" src="./imgs/Kaggle_logo.png" />    
+                </tr>
+</table>
         </td>
         <td>
             <img src="imgs/5de3997c13372400174c5d95.jpeg" width="500">
@@ -19,10 +29,10 @@
             <img alt="Python" width="36px" src="https://img.icons8.com/color/48/000000/python.png" />
         </td>
         <td>
-            <img alt = "PyTorch"   width="36px" src="imgs/pytorch-icon.png" />
+            <img alt = "PyTorch"   width="36px" src="./imgs/pytorch-icon.png" />
         </td>
         <td>
-            <img alt="TensorFlow" width="36px" src="imgs/tensorflow-icon.png" />
+            <img alt="TensorFlow" width="36px" src="./imgs/tensorflow-icon.png" />
         </td>
         <td>
             <img alt="C++" width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
