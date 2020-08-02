@@ -5,13 +5,18 @@
         <td>
             Interested in machine vision applications in medicine, astrodynamics and astronomy. Always open to collaboration.
             <br>
+            <br>
             <table style="width:300px">
                 <tr>
-                    <td><a href="https://scholar.google.com/citations?user=ZiFRiAIAAAAJ&hl"><img align="left" alt="Google Scholar" width="170px" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png" />
                     <td>
-                    <td><a href="https://www.linkedin.com/in/jeffreywardman/"><img align="left" alt="LinkedIn" width="130px" src="./imgs/LI-Logo.png" />
+                        <a href="https://scholar.google.com/citations?user=ZiFRiAIAAAAJ&hl"><img align="left" alt="Google Scholar" width="190px" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png" />
+                    </td>
                     <td>
-                    <td><a href="https://www.kaggle.com/jeffreywardman"><img align="left" alt="Kaggle" width="120px" src="./imgs/Kaggle_logo.png" />    
+                        <a href="https://www.linkedin.com/in/jeffreywardman/"><img align="left" alt="LinkedIn" width="130px" src="./imgs/LI-Logo.png" />
+                    </td>
+                    <td>
+                        <a href="https://www.kaggle.com/jeffreywardman"><img align="left" alt="Kaggle" width="120px" src="./imgs/Kaggle_logo.png" />   
+                    </td>
                 </tr>
 </table>
         </td>
