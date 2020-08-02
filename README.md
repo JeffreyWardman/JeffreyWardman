@@ -6,7 +6,7 @@
             Interested in machine vision applications in medicine, astrodynamics and astronomy. Always open to collaboration.
             <br>
             <br>
-            <table style="width:300px">
+            <table style="width:250px">
                 <tr>
                     <td>
                         <a href="https://scholar.google.com/citations?user=ZiFRiAIAAAAJ&hl"><img align="left" alt="Google Scholar" width="190px" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png" />
