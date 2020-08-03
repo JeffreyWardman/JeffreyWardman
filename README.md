@@ -6,6 +6,8 @@
             Interested in machine vision applications in medicine, astrodynamics and astronomy. Always open to collaboration.
             <br>
             <br>
+            Connect with me on:
+            <br>
             <table style="width:250px">
                 <tr>
                     <td>
