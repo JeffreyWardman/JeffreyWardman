@@ -90,3 +90,9 @@
         </td>
     </tr>
 </table>
+
+Check out my blogs at https://jeffreywardman.github.io/ and https://medium.com/@jeffreywardman.
+My latest medium post is below:
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jeffreywardman/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jeffreywardman/0" alt="Recent Article 0"> 
+
