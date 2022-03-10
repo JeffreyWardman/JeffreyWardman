@@ -28,7 +28,7 @@
     </tr>
 </table>
 
-### Languages & Tools:
+### Preferred Languages & Tools:
 
 <table>
     <tr align="center">
@@ -48,13 +48,7 @@
             <img alt="SQL" width="36px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
         </td>
         <td>
-            <img alt="R" width="36px" src="https://www.r-project.org/logo/Rlogo.png" />
-        </td>
-        <td>
-            <img alt="MATLAB" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
-        </td>
-        <td>
-            <img alt="Git" width="36px" src="https://img.icons8.com/fluent/48/000000/github.png" />
+            <img alt="JavaScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
         </td>
         <td>
             <img alt="Blender" width="36px" src="https://img.icons8.com/color/48/000000/blender-3d.png" />
@@ -77,13 +71,7 @@
             SQL
         </td>
         <td>
-            R
-        </td>
-        <td>
-            MATLAB
-        </td>
-        <td>
-            Git
+            JavaScript
         </td>
         <td>
             Blender
