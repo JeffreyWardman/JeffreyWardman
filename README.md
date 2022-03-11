@@ -84,3 +84,5 @@ My latest medium post is below:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jeffreywardman/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jeffreywardman/0" alt="Recent Article 0"> 
 
+[![Top Langs](https://github-readme-stats-sage-iota-32.vercel.app/api/top-langs/?username=jeffreywardman&exclude_repo=github-readme-stats,jeffreywardman.github.io,jeffreywardman&hide=html,Jupyter%20Notebook&layout=compact)](https://github.com/jeffreywardman/github-readme-stats)
+
