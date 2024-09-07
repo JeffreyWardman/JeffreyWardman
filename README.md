@@ -12,7 +12,7 @@ Interested in machine vision applications in 3d geometry, medicine, astrodynamic
             <img alt="Python" width="36px" src="https://img.icons8.com/color/48/000000/python.png" />
         </td>
         <td>
-            <img alt = "PyTorch"   width="36px" src="https://user-images.githubusercontent.com/23271678/89118421-0daafe80-d4e9-11ea-8f5e-008376d2c466.png" />
+            <img alt = "PyTorch" width="36px" src="https://user-images.githubusercontent.com/23271678/89118421-0daafe80-d4e9-11ea-8f5e-008376d2c466.png" />
         </td>
         <td>
             <img alt="C++" width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
@@ -41,7 +41,7 @@ Interested in machine vision applications in 3d geometry, medicine, astrodynamic
     </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats-sage-iota-32.vercel.app/api/top-langs/?username=jeffreywardman&exclude_repo=github-readme-stats,jeffreywardman.github.io,jeffreywardman&hide=html,Jupyter%20Notebook&layout=compact)](https://github.com/jeffreywardman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sage-iota-32.vercel.app/api/top-langs/?username=jeffreywardman&exclude_repo=github-readme-stats,jeffreywardman.github.io,jeffreywardman&hide=html,javascript,typescript,Jupyter%20Notebook&layout=compact)](https://github.com/jeffreywardman/github-readme-stats)
 
 Connect with me on:
 
